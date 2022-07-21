@@ -18,6 +18,6 @@ public class Objective5Lab3 {
       System.out.println("The number is equal to zero");
     }
 
-
+    scanner.close();
   }
 }
