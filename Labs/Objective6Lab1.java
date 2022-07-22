@@ -42,6 +42,7 @@ public class Objective6Lab1 {
       default:
         System.out.println("That is not a valid month");
         break;
+        
     }
   }
 }
